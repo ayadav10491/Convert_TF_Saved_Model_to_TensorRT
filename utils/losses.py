@@ -1,5 +1,5 @@
 """
-The implementation of some utils.
+The implementation of some losses.
 
 @Author: Akash Yadav
 @Github: https://github.com/ayadav10491
